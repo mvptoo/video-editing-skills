@@ -1,0 +1,6 @@
+interface:
+  display_name: "国内电商主图视频剪辑"
+  short_description: "整理素材并剪出国内电商主图视频"
+  default_prompt: "Use $edit-ecommerce-main-video to edit my product footage into a domestic ecommerce main-image video."
+policy:
+  allow_implicit_invocation: true

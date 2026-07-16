@@ -1,0 +1,6 @@
+interface:
+  display_name: "TikTok Hook Workflow"
+  short_description: "分析短视频结构并生成模仿分镜"
+  default_prompt: "Use $video-hook-workflow to analyze this TikTok or short-video structure, then imitate it with an executable shooting storyboard."
+policy:
+  allow_implicit_invocation: true
